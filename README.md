@@ -1,1 +1,1 @@
-# 7-in-1--4-pin-NPK-sensor-with-RS485-in-Arduino-Pro-or-Pro-Mini
+4 pin- 7 in 1 NPK with MAX485 using Arduino Pro mini Wazidev Custom Board
